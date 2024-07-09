@@ -1,0 +1,7 @@
+.banner-item.active .carousel-caption{
+ z-index: 999999999999999!important;
+}
+
+.banner-item.active{
+    z-index: 0!important;
+}
